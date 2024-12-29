@@ -46,9 +46,11 @@
 
 ---
 
-### Let's Connect 🌐
-- **Email**: [aliabdelrahman2005@gmail.com](mailto:aliabdelrahman2005@gmail.com)
-- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/ali-abdelrahman1/)
+### Reach me at 📫:
+- ![Email](https://img.shields.io/badge/-Email-c14438?logo=gmail&logoColor=white) [aliabdelrahman2005@gmail.com](mailto:aliabdelrahman2005@gmail.com)
+- ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white) [LinkedIn](https://www.linkedin.com/in/ali-abdelrahman1/)
+- ![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACF?logo=codeforces&logoColor=white) [Codeforces]([https://codeforces.com/profile/your_profile_link](https://codeforces.com/profile/Alielsalek96))
+
 
 ---
 
