@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:667eea,100:764ba2&text=Ali%20Sayed&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%202x%20ACPC%20Finalist&descSize=18&descAlignY=55" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:667eea,100:764ba2&text=Ali%20Sayed&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%2F%2F%20TODO%3A%20insert%20witty%20tagline&descSize=18&descAlignY=55" alt="header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=800&color=7C7FF2&center=true&vCenter=true&width=500&lines=Backend+Software+Engineer;2x+ACPC+Finalist;2%2C000%2B+Problems+Solved;Creator+of+DevGuessr" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=7C7FF2&center=true&vCenter=true&width=520&lines=Hi%2C+I%27m+Ali+%F0%9F%91%8B;I+turn+coffee+into+Accepted+verdicts;Wrong+Answer+on+pretest+2...+again;It+works+on+my+machine%E2%84%A2" alt="Typing SVG" />
 
 <br>
 
@@ -15,27 +15,27 @@
 
 </div>
 
-## 👨‍💻 About Me
+## 🧑‍💻 whoami
 
-- 🎓 B.Sc. in Computer Science — Faculty of Computers & Artificial Intelligence, **Cairo University** (Class of 2026)
-- ⚙️ Backend engineer building with **ASP.NET Core** and **Java / Spring Boot** — from monoliths to microservices
-- 🗄️ Hands-on with **SQL & NoSQL**: PostgreSQL, Redis, and message brokers like RabbitMQ
-- 🎮 Creator of **[DevGuessr](https://devguessr.site)** — a suite of daily developer puzzle games, live in production
-- 🧩 Solved **2,000+ problems** on top competitive programming platforms
-- 📍 Based in Cairo, Egypt
+- 🎓 CS grad from **Cairo University** — Faculty of Computers & Artificial Intelligence (Class of 2026)
+- ⚙️ I build backends with **ASP.NET Core** and **Java / Spring Boot** — monoliths, microservices, and everything in between
+- 🎮 I made **[DevGuessr](https://devguessr.site)** — daily puzzle games for developers, live in production
+- 🗄️ PostgreSQL, Redis, RabbitMQ — data goes in, data comes out, fast
+- 🧩 **2,000+ problems** solved on competitive programming platforms
 
 ## 💼 Experience
 
-- **Software Engineer Intern** · Microsystems Egypt *(Aug – Oct 2025)* — owned the full feature lifecycle: designed customer-engagement APIs for a retail platform, fixed a critical concurrency issue with atomic transactions, and containerized services with Docker + CI/CD
-- **AI Trainer** · micro1 *(Apr – Jul 2025)* — automated data validation with Python & C++ and designed rigorous test cases to evaluate code-generation LLMs
-- **AI Trainer → AI Reviewer** · Scale AI *(May – Aug 2024)* — promoted to Reviewer, overseeing quality assurance of AI training outputs
+- **Software Engineer Intern** · Microsystems Egypt *(Aug – Oct 2025)* — built customer-engagement APIs for a retail platform, fixed a nasty concurrency bug with atomic transactions, and Dockerized the deployment with CI/CD
+- **AI Trainer** · micro1 *(Apr – Jul 2025)* — wrote Python & C++ automation and stress-tested code-generation LLMs with rigorous test cases
+- **AI Trainer → AI Reviewer** · Scale AI *(May – Aug 2024)* — promoted to Reviewer, checking the quality of AI training outputs
 
 ## 🏆 Competitive Programming
 
-- 🥇 **2× ACPC Finalist** — Arab & Africa Collegiate Programming Contest
+- 🥇 **2× ACPC Finalist** — Arab & Africa Collegiate Programming Contest *(the ICPC regional contest)*
   - **ACPC 2024** — ranked **18th of 120+ teams** in first-ever participation
   - **ACPC 2025** — finalist in Luxor, representing Cairo University
-- 🥉 **ECPC 2024** — 3rd place in qualifications, advanced to finals (**50th of 370+ teams**)
+- 🥉 **ECPC 2024** — Egyptian Collegiate Programming Contest — 3rd place in qualifications, advanced to finals (**50th of 370+ teams**)
+- ⚔️ **Codeforces Expert** — max rating **1710** ([Alielsalek96](https://codeforces.com/profile/Alielsalek96))
 
 ## 🛠️ Tech Stack
 
@@ -55,22 +55,6 @@
 
 </div>
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Alielsalek1/DevGuessr"><img width="420" src="https://opengraph.githubassets.com/1/Alielsalek1/DevGuessr" alt="DevGuessr" /></a>
-<a href="https://github.com/Alielsalek1/Data-structures-Implementation-using-C-"><img width="420" src="https://opengraph.githubassets.com/1/Alielsalek1/Data-structures-Implementation-using-C-" alt="Data Structures in C++" /></a>
-
-<a href="https://github.com/Alielsalek1/cf_ai_linuxSystemHelper"><img width="420" src="https://opengraph.githubassets.com/1/Alielsalek1/cf_ai_linuxSystemHelper" alt="cf_ai_linuxSystemHelper" /></a>
-<a href="https://github.com/Alielsalek1/GetHub"><img width="420" src="https://opengraph.githubassets.com/1/Alielsalek1/GetHub" alt="GetHub" /></a>
-
-<br>
-
-🎮 **DevGuessr is live** — .NET 9 · Angular 20 · PostgreSQL · Redis · RabbitMQ · Docker → [play it at devguessr.site](https://devguessr.site)
-
-</div>
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -78,7 +62,7 @@
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alielsalek1&theme=tokyonight" alt="GitHub Stats" />
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alielsalek1&theme=tokyonight" alt="Top Languages" />
 
-<img src="https://streak-stats.demolab.com?user=Alielsalek1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alielsalek1&theme=tokyonight" alt="Profile Details" />
 
 </div>
 
@@ -86,6 +70,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:667eea,100:764ba2&section=footer" alt="footer" />
 
-*Thanks for stopping by — let's build something great together!* 🚀
+*Thanks for scrolling this far — you deserve a cookie* 🍪
 
 </div>
