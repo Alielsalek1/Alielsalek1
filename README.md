@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:667eea,100:764ba2&text=Ali%20Sayed&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%2F%2F%20TODO%3A%20insert%20witty%20tagline&descSize=18&descAlignY=55" alt="header" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alielsalek1/Alielsalek1/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alielsalek1/Alielsalek1/output/github-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Alielsalek1/Alielsalek1/output/github-snake-dark.svg" />
+</picture>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=7C7FF2&center=true&vCenter=true&width=520&lines=Hi%2C+I%27m+Ali+%F0%9F%91%8B;I+turn+coffee+into+Accepted+verdicts;Wrong+Answer+on+pretest+2...+again;It+works+on+my+machine%E2%84%A2" alt="Typing SVG" />
-
-<br>
+<br><br>
 
 <a href="https://portfolio-lilac-sigma-27.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
 <a href="https://www.linkedin.com/in/ali-abdelrahman1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -67,8 +69,6 @@
 </div>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:667eea,100:764ba2&section=footer" alt="footer" />
 
 *Thanks for scrolling this far — you deserve a cookie* 🍪
 
